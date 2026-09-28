@@ -74,9 +74,9 @@ TARGET_COMPANIES = [
     "알프스", "(주)청우라이프사이언스", "㈜빅솔", "티지에프"
 ]
 
-# 2026년 기준 189개 업체 다중 이메일 매칭용 딕셔너리 (최대 3개까지 반영)
+# 2026년 기준 189개 업체 다중 이메일 매칭용 딕셔너리
 COMPANY_EMAIL_DICT = {
-    "테트라팩(유)": "kevin.kil@tetrapak.com, Caron.Lee@tetrapak.com",
+    "테트라팩(유)": "kevin.kil@tetrapak.com, MS.Lee@tetrapak.com",
     "SIG Combibloc(인천세관장)": "harris.kim@sig.biz",
     "에스아이지패키징코리아": "youngsam.moon@sig.biz",
     "㈜한국팩키지": "jspark40@hkpak.co.kr, wjlim@hkpak.co.kr",
@@ -85,7 +85,7 @@ COMPANY_EMAIL_DICT = {
     "㈜서일": "seoil@si-straw.com",
     "삼성포장": "sam5501@hanmail.net, skygod@srpack.com",
     "국일피앤피 주식회사": "0148ks@hanmail.net, sdjjmjm@daum.net",
-    "명진포장(주)": "mjcartonbox@nate.com",
+    "명진포장(주)": "order@mjbox.co.kr, leekh6745@gmail.com",
     "덕원기업": "tg_kim@dukwontop.com",
     "현대이피 주식회사": "terious1234@naver.com",
     "호명화학공업㈜": "bjmin65@naver.com",
@@ -125,7 +125,7 @@ COMPANY_EMAIL_DICT = {
     "㈜남강": "hckeum@nkcc.co.kr",
     "한국에이피이": "korape@daum.net",
     "아그라나프루트코리아㈜": "Tae-hun.HA@agrana.com",
-    "(유)사조CPK": "jungwhan.kim@sajo.co.kr",
+    "(유)사조CPK": "hokyung.jin@sajo.co.kr",
     "㈜코맥스인터내셔널": "jy.13.park@gmail.com, info@comaxkorea.com",
     "롯데웰푸드(주) (유지)": "MYUNGHO.JUNG@lotte.net",
     "(주)바름": "buldoglee0@naver.com, uk_intel@naver.com",
@@ -160,7 +160,7 @@ COMPANY_EMAIL_DICT = {
     "프레시코": "wjs13@freshico.co.kr",
     "㈜동은(탈지)": "dongeun@defc.co.kr, sykmc303@daum.net",
     "㈜태영에프에이": "mtkim9702@naver.com",
-    "브랜탁코리아㈜": "sara.kim@brenntag-asia.com, olive.lee@brenntag-asia.com",
+    "브랜탁코리아㈜": "david.kang@brenntag.com, jane.shin@brenntag.com",
     "㈜뉴트렉스테크놀러지": "jyjang@nutrex.co.kr, nutrex@nutrex.co.kr",
     "(주)삼익유가공": "sesarr@samikdairy.com",
     "주식회사 혜원": "haeom222@nate.com",
@@ -185,9 +185,9 @@ COMPANY_EMAIL_DICT = {
     "향림산업㈜": "jspark@hyangrim.co.kr, supplychain@hyangrim.co.kr",
     "삼정향료": "jslee@samjungflavor.co.kr",
     "주식회사지금": "jigumsales@gmail.com",
-    "한빛향료": "soondol2@hffaroma.com",
+    "한빛향료": "cbseo@hffaroma.com",
     "삼인케미칼": "saminkoreaco@gmail.com",
-    "(주)한불화농": "kjh@fka.co.kr, ysh282@fka.co.kr",
+    "(주)한불화농": "pjh1101@fka.co.kr",
     "베리에프앤비": "verryfnb@gmail.com",
     "주식회사 원아": "wonacorp@gmail.com",
     "아로마라인주식회사": "csfjyy@csfood.com",
@@ -195,12 +195,12 @@ COMPANY_EMAIL_DICT = {
     "에이스향료": "ace@acefl.co.kr",
     "제이제이글로벌": "dpark@jj-global.kr",
     "빙그레_원재료": "hoon7500@bing.co.kr",
-    "(주)세보글로벌": "wyshin@sbbiz.co.kr",
+    "(주)세보글로벌": "sebo@sbbiz.co.kr",
     "에이치와이푸드텍": "hyfoodtech@naver.com",
     "(주)동광상사": "dksalt@dksalt.co.kr",
     "㈜제이스에프아이": "jsmsales@jsmfood.com",
     "엔바이오텍": "sales@nbiotech.co.kr",
-    "㈜네오크레마": "mjoeon@cremar.co.kr",
+    "㈜네오크레마": "2kyub1n@cremar.co.kr",
     "㈜성천": "sbjeon@sungchun.co.kr",
     "신한솔루션 주식회사": "shinhan4199@naver.com",
     "젤텍": "huo@geltech.co.kr",
@@ -223,9 +223,9 @@ COMPANY_EMAIL_DICT = {
     "농업회사법인 주식회사 보림제다": "piona1990@daum.net",
     "(주)파이토메디": "jkhwang@yonsei.ac.kr",
     "코스맥스엔에스": "jangjihwan@cosmaxnbt.com",
-    "가우인터내셔날㈜": "pje@gauinter.com",
+    "가우인터내셔날㈜": "pje@gauinter.com, hssong@gauinter.com",
     "우리피엔에프": "okniceyou@korea.com",
-    "유성식품": "hisballad@nate.com",
+    "유성식품": "hisballad@nate.com, yoosungfood@naver.com",
     "(주)뉴웨이브코퍼레이션": "nw-official@naver.com",
     "주식회사 앤앤피": "nnpfnb@gmail.com",
     "케이엔바이오": "knbiocare@gmail.com",
@@ -256,19 +256,18 @@ COMPANY_EMAIL_DICT = {
     "㈜교토아이엔씨": "info@gyoto.com",
     "가향": "gh37@gahyang.kr",
     "㈜홀리스틱바이오": "sojungkim@holisticbio.com",
-    "㈜파르마코리아": "syi0603@parmakorea.co.kr",
+    "㈜파르마코리아": "kgj@parmakorea.co.kr, syi0603@parmakorea.co.kr",
     "㈜뉴트리_원료": "swseo@inewtree.com",
     "메이": "mayjs1@naver.com",
-    "농업회사법인 ㈜보향다원": "js.choi@bohyang.com",
+    "농업회사법인 ㈜보향다원": "goldtea@bohyang.com",
     "해인향료": "jhs20900@hanmail.net",
-    "알프스": "dkpark@alfskorea.com",
+    "알프스": "tylerkim@alfskorea.com, dkpark@alfskorea.com",
     "(주)청우라이프사이언스": "hyunse7@chungwools.com",
     "㈜빅솔": "hymkim@vixxol.com",
     "티지에프": "sosung@dearfood.co.kr",
     "담당자": "rhkrwjdgur@yonseidairy.com"
 }
 
-# 에러 없는 클리닝된 딕셔너리 기반 일괄 발송용 이메일 자동 세팅 (중복 제거)
 _all_bulk_emails = []
 for comp in TARGET_COMPANIES:
     if comp == "선택하세요": continue
@@ -299,6 +298,53 @@ DOC_MAX_SCORES = {
     "[유통] (4) 설비_이력": 5, "[유통] (5) 설비_검교정": 5, 
     "[유통] (1) 작업장 소독/점검": 5, "[유통] (1) 출고관리": 10, "[유통] (2) 구매 업체 관리": 5,
     "[유통] (3) 클레임/반품관리": 10
+}
+
+# -----------------------------------------------------
+# 업체 친절 가이드 안내 딕셔너리 (AI 메일 발송용 상세 설명)
+# -----------------------------------------------------
+DOC_DETAILED_GUIDE = {
+    "[제조] (1) 영업신고": "영업허가증(신고증) 또는 사업자등록증 사본 1부입니다.",
+    "[제조] (2) 인증서": "유효기간이 만료되지 않은 HACCP, FSSC22000, ISO 등 식품안전/품질 관련 인증서 사본입니다.",
+    "[제조] (3) 품목제조보고": "생산하시는 제품의 품목제조보고서 (제품명, 원료, 유통기한 등 확인 용도)입니다.",
+    "[제조] (4) 원료수불부": "최근 1개월 이내의 원재료 입고, 사용, 재고 내역이 기록된 장부입니다. (날짜별 원재료 입출고 현황 파악 용도이며, 엑셀 파일, ERP 화면 캡처, 수기 작성 대장 모두 인정됩니다.)",
+    "[제조] (5) 자가품질검사": "가장 최근에 실시한 자가품질검사 성적서 또는 공인기관 의뢰 검사 성적서입니다.",
+    "[제조] (6) 건강진단": "작업장 근로자의 최근(1년 이내) 보건증(건강진단결과서) 사본입니다.",
+    "[제조] (7) 위생교육": "해당 제조업에 맞는 법정 위생교육 수료증 사본입니다.",
+    "[제조] (8) 수질검사": "운영하시는 용수의 최신 수질검사 성적서(상수도 또는 지하수)입니다.",
+    "[제조] (1) 구분구획": "작업장 평면도 또는 설비 배치도입니다. (오염을 막기 위해 '청결구역'과 '일반구역'이 도면/색상 등으로 명확히 구분 표시되어야 합니다.)",
+    "[제조] (2) 환기/청정도": "작업장 내 낙하세균 검사 일지 등 청정도 관리 내역을 확인할 수 있는 최근 성적서입니다.",
+    "[제조] (3) 조명관리": "조도 검사 일지 또는 조명 관리 점검표입니다. (룩스(Lux) 측정 기록이거나, 조명 파손 대비 비산방지 커버 점검 내역)",
+    "[제조] (4) 청결관리": "작업장 위생점검일지 또는 세척/소독 기준서 중 1부입니다.",
+    "[제조] (5) CIP관리": "CIP(현장세척) 일지 또는 CIP 관리 기준서입니다.",
+    "[제조] (6) 설비_온도": "냉장/냉동고 또는 주요 온도 설비의 점검 일지입니다. (보관 창고나 작업장 온도가 기준치 이탈 없이 잘 유지되는지 매일/정기적으로 확인한 최근 기록)",
+    "[제조] (7) 설비_검교정": "저울, 온도계 등 계측기의 검교정 성적서 또는 자체 점검 일지입니다. (영점이 정확히 맞는지 검사한 기록)",
+    "[제조] (8) 보관관리_MSDS": "현장 사용 화학물질(세척제, 소독제 등)의 물질안전보건자료(MSDS) 서류 또는 해당 서류가 현장에 비치되어 안전하게 관리되는 모습을 찍은 사진입니다.",
+    "[제조] (9) 보관관리_기준서": "원부자재 및 완제품 보관 내부 규정(매뉴얼)입니다. (적정 온도/습도 기준, 선입선출 원칙, 이격 관리 등 사내 규칙 포함)",
+    "[제조] (10) 저수시설": "법적 기준에 따라 실시한 저수조 청소 관련 증빙 서류입니다.",
+    "[제조] (1) 작업장 소독/점검": "전문 방역업체의 소독 증명서 또는 자체 방충방서 점검 일지/보고서입니다.",
+    "[제조] (1) 공정관리": "각 핵심 제조 공정별 CCP(중요관리점) 모니터링 일지입니다.",
+    "[제조] (2) 완제품관리": "최근 실시한 완제품 검사 성적서 또는 검사 일지입니다. (제품명, 검사일자, 검사항목 및 전 항목 '적합/합격' 판정 여부가 확인되어야 합니다.)",
+    "[제조] (3) 구매관리_점검": "귀사의 협력업체 점검 기준서 또는 실제 점검 기록표입니다. (귀사의 자체적인 협력업체 평가표, 현장 점검 일지 등 중 1부 제출)",
+    "[제조] (4) 구매관리_입고": "원부자재 입고 시 실시하는 수입검사(입고검사) 일지입니다.",
+    "[제조] (5) 구매관리_성적서": "입고된 원부재료의 성적서(COA, GMO, 원산지 증명 등) 수취 내역입니다.",
+    "[제조] (6) 클레임/반품관리": "고객 클레임 발생 시 처리하는 기준서 또는 최근 클레임/반품 처리 내역입니다.",
+    "[제조] (1) 개인위생": "근로자 출입 절차 및 위생 상태를 기록한 개인위생관리일지 또는 관련 기준서입니다.",
+    "[제조] (2) 위생교육일지": "자체적으로 실시하는 내부 정기 위생 교육 기록 일지입니다.",
+    "[유통] (1) 영업신고": "수입식품등 수입·판매업 또는 유통전문판매업 등이 명시된 영업허가증(신고증)입니다.",
+    "[유통] (2) 인증서": "HACCP, FSSC22000, ISO 등 식품안전/품질 관련 인증서(유효기간 갱신본) 사본입니다.",
+    "[유통] (3) 품목제조보고(국내)": "국내 유통 제품의 경우 품목제조보고서 (제품명, 유통기한 확인용)입니다.",
+    "[유통] (4) 수입 관련 서류": "해외 수입품의 경우 통관 내역이 확인되는 수입신고필증 또는 수입신고확인증입니다.",
+    "[유통] (5) 자가품질검사(국내)": "수입품 또는 유통 제품의 성적서(COA) 또는 스펙시트 등 품질 검증 서류입니다.",
+    "[유통] (1) 입고관리": "제품 입고 시 자체적인 검수 기준을 명시한 기준서 또는 입고관리일지입니다.",
+    "[유통] (2) 보관관리": "창고 온도/습도 기록 일지 또는 운송 차량 온도 기록(타코메타 등)입니다.",
+    "[유통] (3) 부적합품 관리": "부적합품 발생 시 처리 절차를 담은 기준서나 최근 부적합 처리 기록 내역입니다.",
+    "[유통] (4) 설비_이력": "냉장/냉동 창고나 주요 설비의 이력 관리 및 점검 관련 서류입니다.",
+    "[유통] (5) 설비_검교정": "보관 창고 등에 사용하는 온도계, 온습도계 등의 검교정 일지나 성적서입니다.",
+    "[유통] (1) 작업장 소독/점검": "제품 보관 창고에 대한 정기 방충방서 소독 보고서 또는 점검 일지입니다.",
+    "[유통] (1) 출고관리": "제품의 유통기한 또는 Lot별로 기록 관리되는 출고/수불 관리 일지입니다.",
+    "[유통] (2) 구매 업체 관리": "제품 공급업체를 평가/관리하는 기준서나 점검 내역입니다.",
+    "[유통] (3) 클레임/반품관리": "클레임 발생 시의 대응 지침(기준서) 또는 실제 클레임/반품 처리 대장입니다."
 }
 
 # ==========================================
@@ -356,7 +402,7 @@ def append_rows_to_google_sheet(rows_data):
     except Exception as e:
         return str(e)
 
-def update_google_sheet_admin_score(unique_id, new_score):
+def update_google_sheet_admin_score(unique_id, new_score, new_link=None):
     try:
         creds = get_credentials()
         gc = gspread.authorize(creds)
@@ -366,6 +412,13 @@ def update_google_sheet_admin_score(unique_id, new_score):
         for idx, record in enumerate(all_records):
             if record.get('고유ID') == unique_id:
                 worksheet.update_cell(idx + 2, 8, new_score)
+                if new_link:
+                    existing_link = str(record.get('드라이브링크', ''))
+                    if existing_link in ["", "첨부파일 없음", "첨부파일 업로드 오류", "None", "nan"]:
+                        final_link = new_link
+                    else:
+                        final_link = existing_link + " | " + new_link
+                    worksheet.update_cell(idx + 2, 9, final_link)
                 break
         return True
     except Exception as e:
@@ -1137,7 +1190,7 @@ elif menu == "관리자 대시보드 (육안 재확인 및 수정)":
                 # 실제 미제출 대기 업체 = 전체 - 제출완료 - 심사제외
                 pending_list = [c for c in all_targets if c not in submitted_set and c not in exempt_set]
                 
-                st.markdown("### 1. 심사 서류 제출 현 파악")
+                st.markdown("### 1. 심사 서류 제출 현황 파악")
                 col_a, col_b, col_c, col_d, col_e = st.columns(5)
                 
                 # 진행률은 전체에서 제출완료+심사제외가 차지하는 비율로 계산
@@ -1299,17 +1352,38 @@ elif menu == "관리자 대시보드 (육안 재확인 및 수정)":
                             
                             st.info(f"업체 제출 사유: {target_na_row.get('AI상세사유', '사유 없음')}")
                             
+                            st.markdown("<br>", unsafe_allow_html=True)
+                            admin_files_na = st.file_uploader("📧 이메일로 별도 접수된 증빙 파일이 있다면 업로드 (선택사항)", accept_multiple_files=True, key=f"admin_upload_na_{target_na_id}", help="업로드 시 구글 드라이브에 자동 저장되며 해당 행의 '드라이브링크'에 추가됩니다.")
+                            st.markdown("<br>", unsafe_allow_html=True)
+
                             col_na1, col_na2 = st.columns(2)
                             with col_na1:
                                 new_na_status = st.selectbox("수정할 점수를 선택하세요:", [f"{max_score_na}점 (만점 유지 - 사유 타당함)", "0점 (관리자 최종 반려 - 사유 부적합)"], key="na_status")
                             with col_na2:
-                                na_admin_memo = st.text_input("수정 사유 입력 (선택):", key="na_memo")
+                                na_admin_memo = st.text_input("수정 사유 입력 (선택):", key="na_memo", placeholder="예: 이메일로 별도 증빙 수취 완료")
 
-                            if st.button("해당사항 없음 검토 결과 구글 시트 반영"):
-                                memo_text = f"{new_na_status} / 사유: {na_admin_memo}" if na_admin_memo else new_na_status
-                                if update_google_sheet_admin_score(target_na_id, memo_text) == True:
-                                    st.success(f"선택한 건의 점수가 성공적으로 반영되었습니다.")
-                                    st.rerun()
+                            if st.button("해당사항 없음 검토 및 첨부파일 구글 시트 반영"):
+                                with st.spinner("변경 사항 및 파일을 저장하고 있습니다..."):
+                                    new_link_str = None
+                                    if admin_files_na:
+                                        uploaded_links = []
+                                        current_time_str = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+                                        for f_idx, file_obj in enumerate(admin_files_na):
+                                            file_name = f"ADMIN_SUPPLEMENT_{target_na_id}_{current_time_str}_{f_idx}_{file_obj.name}"
+                                            file_buffer = io.BytesIO(file_obj.getvalue())
+                                            link = upload_to_google_drive(file_buffer, file_name, file_obj.type)
+                                            if not link.startswith("Exception") and not link.startswith("Error"):
+                                                uploaded_links.append(link)
+                                        if uploaded_links:
+                                            new_link_str = " | ".join(uploaded_links)
+
+                                    memo_text = f"{new_na_status} / 사유: {na_admin_memo}" if na_admin_memo else new_na_status
+                                    result = update_google_sheet_admin_score(target_na_id, memo_text, new_link_str)
+                                    if result == True:
+                                        st.success(f"선택한 건의 점수 및 서류가 성공적으로 반영되었습니다.")
+                                        st.rerun()
+                                    else:
+                                        st.error(f"오류 발생: {result}")
 
                     st.markdown("---")
 
@@ -1331,7 +1405,7 @@ elif menu == "관리자 대시보드 (육안 재확인 및 수정)":
                             
                             st.error(f"[감점 처리 사유] {target_row.get('AI상세사유', '사유 없음')}")
                             
-                            if drive_url and drive_url != "첨부파일 없음":
+                            if drive_url and drive_url not in ["첨부파일 없음", "", "nan", "None"]:
                                 urls = drive_url.split(" | ")
                                 for i, url in enumerate(urls, 1):
                                     st.markdown(f"**[제출된 파일 {i} 직접 확인하기 (새 창 열림)]({url})**")
@@ -1339,17 +1413,40 @@ elif menu == "관리자 대시보드 (육안 재확인 및 수정)":
                                 st.warning("[주의] 미제출로 인해 첨부된 파일이 없습니다.")
                             
                             st.markdown("<br>", unsafe_allow_html=True)
+                            
+                            # --- 새로 추가된 파일 업로드 기능 ---
+                            admin_files = st.file_uploader("📧 이메일로 별도 접수된 증빙 파일이 있다면 업로드 (선택사항)", accept_multiple_files=True, key=f"admin_upload_{target_id}", help="업로드 시 구글 드라이브에 자동 저장되며 해당 행의 '드라이브링크'에 추가됩니다.")
+                            st.markdown("<br>", unsafe_allow_html=True)
+                            # ------------------------------------
+
                             col1, col2 = st.columns(2)
                             with col1:
                                 new_status = st.selectbox("수정할 점수를 선택하세요:", [f"{max_score_zero}점 (관리자 육안 확인 통과)", "0점 (관리자 최종 반려)"])
                             with col2:
-                                admin_memo = st.text_input("수정 사유 입력 (선택):")
+                                admin_memo = st.text_input("수정 사유 입력 (선택):", placeholder="예: 이메일로 별도 제출 완료")
 
-                            if st.button("최종 점수 구글 시트 반영"):
-                                memo_text = f"{new_status} / 사유: {admin_memo}" if admin_memo else new_status
-                                if update_google_sheet_admin_score(target_id, memo_text) == True:
-                                    st.success(f"해당 건의 최종 점수가 성공적으로 수정되었습니다.")
-                                    st.rerun()
+                            if st.button("최종 점수 및 첨부파일 구글 시트 반영"):
+                                with st.spinner("변경 사항 및 첨부파일을 드라이브에 저장 중입니다..."):
+                                    new_link_str = None
+                                    if admin_files:
+                                        uploaded_links = []
+                                        current_time_str = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+                                        for f_idx, file_obj in enumerate(admin_files):
+                                            file_name = f"ADMIN_SUPPLEMENT_{target_id}_{current_time_str}_{f_idx}_{file_obj.name}"
+                                            file_buffer = io.BytesIO(file_obj.getvalue())
+                                            link = upload_to_google_drive(file_buffer, file_name, file_obj.type)
+                                            if not link.startswith("Exception") and not link.startswith("Error"):
+                                                uploaded_links.append(link)
+                                        if uploaded_links:
+                                            new_link_str = " | ".join(uploaded_links)
+
+                                    memo_text = f"{new_status} / 사유: {admin_memo}" if admin_memo else new_status
+                                    result = update_google_sheet_admin_score(target_id, memo_text, new_link_str)
+                                    if result == True:
+                                        st.success(f"해당 건의 최종 점수 및 서류 내역이 성공적으로 수정되었습니다.")
+                                        st.rerun()
+                                    else:
+                                        st.error(f"오류 발생: {result}")
 
                     st.markdown("---")
 
@@ -1371,7 +1468,7 @@ elif menu == "관리자 대시보드 (육안 재확인 및 수정)":
                             
                             st.info(f"[AI 통과 사유] {target_pass_row.get('AI상세사유', '사유 없음')}")
                             
-                            if drive_url_pass and drive_url_pass != "첨부파일 없음":
+                            if drive_url_pass and drive_url_pass not in ["첨부파일 없음", "", "nan", "None"]:
                                 urls_pass = drive_url_pass.split(" | ")
                                 for i, url in enumerate(urls_pass, 1):
                                     st.markdown(f"**[제출된 파일 {i} 직접 확인하기 (새 창 열림)]({url})**")
@@ -1379,17 +1476,37 @@ elif menu == "관리자 대시보드 (육안 재확인 및 수정)":
                                 st.warning("[주의] 미제출로 인해 첨부된 파일이 없습니다.")
                             
                             st.markdown("<br>", unsafe_allow_html=True)
+                            admin_files_pass = st.file_uploader("📧 추가로 보완/수취한 증빙 파일이 있다면 업로드 (선택사항)", accept_multiple_files=True, key=f"admin_upload_pass_{target_pass_id}", help="업로드 시 구글 드라이브에 자동 저장되며 기존 서류에 덧붙여집니다.")
+                            st.markdown("<br>", unsafe_allow_html=True)
+
                             col_p1, col_p2 = st.columns(2)
                             with col_p1:
                                 new_pass_status = st.selectbox("수정할 점수를 선택하세요:", [f"{max_score_pass}점 (만점 유지 - 서류 적합함)", "0점 (관리자 최종 반려 - 서류 부실/허위)"])
                             with col_p2:
-                                pass_admin_memo = st.text_input("수정 사유 입력 (선택):", key="pass_memo")
+                                pass_admin_memo = st.text_input("수정 사유 입력 (선택):", key="pass_memo", placeholder="예: 추가 스펙시트 첨부 완료")
 
-                            if st.button("검증 결과 구글 시트 반영", key="pass_btn"):
-                                memo_text = f"{new_pass_status} / 사유: {pass_admin_memo}" if pass_admin_memo else new_pass_status
-                                if update_google_sheet_admin_score(target_pass_id, memo_text) == True:
-                                    st.success(f"해당 건의 최종 점수가 성공적으로 수정되었습니다.")
-                                    st.rerun()
+                            if st.button("검증 결과 및 첨부파일 구글 시트 반영", key="pass_btn"):
+                                with st.spinner("변경 사항 및 파일을 저장하고 있습니다..."):
+                                    new_link_str = None
+                                    if admin_files_pass:
+                                        uploaded_links = []
+                                        current_time_str = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+                                        for f_idx, file_obj in enumerate(admin_files_pass):
+                                            file_name = f"ADMIN_SUPPLEMENT_{target_pass_id}_{current_time_str}_{f_idx}_{file_obj.name}"
+                                            file_buffer = io.BytesIO(file_obj.getvalue())
+                                            link = upload_to_google_drive(file_buffer, file_name, file_obj.type)
+                                            if not link.startswith("Exception") and not link.startswith("Error"):
+                                                uploaded_links.append(link)
+                                        if uploaded_links:
+                                            new_link_str = " | ".join(uploaded_links)
+
+                                    memo_text = f"{new_pass_status} / 사유: {pass_admin_memo}" if pass_admin_memo else new_pass_status
+                                    result = update_google_sheet_admin_score(target_pass_id, memo_text, new_link_str)
+                                    if result == True:
+                                        st.success(f"해당 건의 최종 점수 및 서류 내역이 성공적으로 수정되었습니다.")
+                                        st.rerun()
+                                    else:
+                                        st.error(f"오류 발생: {result}")
 
                     st.markdown("---")
                     
@@ -1593,10 +1710,13 @@ elif menu == "관리자 업체관리 (메일 발송)":
                             
                             missing_items_text = ""
                             for idx, row in comp_zero_df.iterrows():
-                                # 시트에서 평가 기준(5번째 열)을 가져옴 (없을 시 기본 문구)
-                                criteria_text = row.iloc[4] if len(row) > 4 else "해당 항목의 평가 기준 참조"
-                                missing_items_text += f"■ {row['심사항목']}\n"
-                                missing_items_text += f"  - 필요 내용: {criteria_text}\n"
+                                doc_key = row['심사항목']
+                                # 딕셔너리에 친절 가이드가 있으면 가져오고, 없으면 기존 구글 시트 평가기준(iloc[4])을 그대로 씀
+                                basic_criteria = row.iloc[4] if len(row) > 4 else "해당 항목의 평가 기준 참조"
+                                detailed_guide = DOC_DETAILED_GUIDE.get(doc_key, basic_criteria)
+                                
+                                missing_items_text += f"■ {doc_key}\n"
+                                missing_items_text += f"  - 필요 내용: {detailed_guide}\n"
                                 missing_items_text += f"  - 현재 상태: {row['AI상세사유']}\n\n"
                             
                             default_req_body = f"""안녕하십니까,
